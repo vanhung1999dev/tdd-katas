@@ -1,0 +1,22 @@
+{
+  "name": "tdd-katas",
+  "version": "1.0.0",
+  "description": "\"mindset for test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhung1999dev/tdd-katas.git"
+  },
+  "author": "\"hungnv\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanhung1999dev/tdd-katas/issues"
+  },
+  "homepage": "https://github.com/vanhung1999dev/tdd-katas#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
